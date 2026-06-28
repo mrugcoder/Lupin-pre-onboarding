@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🏥 Lupin Pre-Onboarding Connect</h1>
+  <h1 align="center">🏥 Pre-Onboarding Connect</h1>
   <p align="center">
     <strong>Pre-Onboarding & Recruitment Automation Portal for HR</strong>
   </p>
